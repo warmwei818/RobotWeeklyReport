@@ -10,22 +10,22 @@
 ### 小组周报
 
 - 格式
-![此处输入图片的描述][1]
 
-
+![image.png](https://cdn.nlark.com/yuque/0/2020/png/148878/1583895359347-53b7e3fc-1e58-404e-a13c-637e4a688cdb.png#align=left&display=inline&height=461&name=image.png&originHeight=921&originWidth=866&size=110538&status=done&style=none&width=433)
 
 - MD内容
-  ![此处输入图片的描述][2]
+
+![image.png](https://cdn.nlark.com/yuque/0/2020/png/148878/1583895413082-10f7af66-4777-4dff-b0c8-b549b735cba2.png#align=left&display=inline&height=412&name=image.png&originHeight=823&originWidth=698&size=181614&status=done&style=none&width=349)
 
 <a name="YHlg0"></a>
 ### 汇总后周报
-![此处输入图片的描述][3]
+   ![aaa.png](https://cdn.nlark.com/yuque/0/2020/png/148878/1583895485049-2477adb6-bf16-42e4-b0cd-f128805ba829.png#align=left&display=inline&height=849&name=aaa.png&originHeight=849&originWidth=1492&size=192962&status=done&style=none&width=1492)
 
-![此处输入图片的描述][4]
+![bbb.png](https://cdn.nlark.com/yuque/0/2020/png/148878/1583895498580-65dc9ab3-ba32-45cb-a2cc-d6707a7b5fc1.png#align=left&display=inline&height=795&name=bbb.png&originHeight=795&originWidth=1546&size=190300&status=done&style=none&width=1546)
 
 <a name="X4bna"></a>
 ### 钉钉消息
-![此处输入图片的描述][5]
+![image.png](https://cdn.nlark.com/yuque/0/2020/png/148878/1583896219852-0a2fa9a7-104d-428c-9a09-ed34b95df358.png#align=left&display=inline&height=1004&name=image.png&originHeight=1004&originWidth=1388&size=713489&status=done&style=none&width=1388)
 <a name="dsVcH"></a>
 ###
 <a name="rxFnE"></a>
@@ -39,10 +39,3 @@
 - user_agent=SoucheBot                                     ua
 - repo_namespace=xuzhenwei/urcgc7                          文档所在工作空间
 - dingding_access_token=xx                                 钉钉机器人的token
-
-
-  [1]: https://cdn.nlark.com/yuque/0/2020/png/148878/1583895359347-53b7e3fc-1e58-404e-a13c-637e4a688cdb.png?x-oss-process=image/resize,w_433
-  [2]: https://cdn.nlark.com/yuque/0/2020/png/148878/1583895413082-10f7af66-4777-4dff-b0c8-b549b735cba2.png?x-oss-process=image/resize,w_349
-  [3]: https://cdn.nlark.com/yuque/0/2020/png/148878/1583895485049-2477adb6-bf16-42e4-b0cd-f128805ba829.png?x-oss-process=image/resize,w_746
-  [4]: https://cdn.nlark.com/yuque/0/2020/png/148878/1583895498580-65dc9ab3-ba32-45cb-a2cc-d6707a7b5fc1.png?x-oss-process=image/resize,w_746
-  [5]: https://cdn.nlark.com/yuque/0/2020/png/148878/1583896219852-0a2fa9a7-104d-428c-9a09-ed34b95df358.png?x-oss-process=image/resize,w_746
