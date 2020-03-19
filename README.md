@@ -2,9 +2,9 @@
 
 <a name="56glm"></a>
 ### 背景
-公司内部文档使用语雀，我们大部门LD要写周报，各小组TL也要写周报，之前每次周报LD自己汇总，可能要花费半天的时间。由于语雀是基于Markdown格式的, 可以通过语雀API获取MD格式的内容，鉴于大家周报的格式都一致，所以可以很方便进行文档的拆分和合并。于是后边周报就比较省力了，每周末晚上20:00jenkins自动执行下脚本即可生成汇总的周报，然后发送消息到钉钉群里，有需要也可以加上自动发送邮件。emmmm ~~   面向领导编程~~~
+公司内部文档使用语雀，我们大部门LD要写周报，各小组TL也要写周报，之前每次周报LD自己汇总，可能要花费半天的时间。由于语雀是基于Markdown格式的, 可以通过语雀API获取MD格式的内容，鉴于大家周报的格式都一致，所以可以很方便进行文档的拆分和合并。于是后边周报就比较省力了，每周末晚上设置时间jenkins自动执行下脚本即可生成汇总的周报，然后发送消息到钉钉群里，有需要也可以加上自动发送邮件。emmmm ~~   
 
-真实的周报内容是比较多的，这里的demo，就简写了。
+真实的周报内容是比较多的，这里的demo为了脱敏需要，就简写了。
 
 <a name="TXjzy"></a>
 ### 小组周报
@@ -35,7 +35,7 @@
 - api_host=https://www.yuque.com/api/v2/                   语雀API的域名
 - report_doc_id=1327538                                    汇总后文档的doc_id
 - repo_id=226643                                           知识库的id
-- yuque_token=iRa0bHQGIqhK2pgmotiWjXGdIq4T1dmyPK9kByC3     yuque账号的token
-- user_agent=SoucheBot                                     ua
+- yuque_token=isssssssssssssssssssssssssssssssss           yuque账号的token
+- user_agent=xx                                            ua
 - repo_namespace=xuzhenwei/urcgc7                          文档所在工作空间
 - dingding_access_token=xx                                 钉钉机器人的token
